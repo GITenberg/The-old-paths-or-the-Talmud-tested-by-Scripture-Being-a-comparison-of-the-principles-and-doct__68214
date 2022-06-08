@@ -1,0 +1,36 @@
+_repo: The-old-paths-or-the-Talmud-tested-by-Scripture-Being-a-comparison-of-the-principles-and-doct__68214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCaul, Alexander
+    aliases:
+    - M'Caul, A. (Alexander)
+    - M'Caul, Alexander
+    birthdate: 1799
+    deathdate: 1863
+    gutenberg_agent_id: '54656'
+    url: http://www.gutenberg.org/2009/agents/54656
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_McCaul
+description: ''
+gutenberg_issued: '2022-05-31'
+identifiers:
+  gutenberg: '68214'
+language: en
+pgterms:marc905: 20171212223302mccaul
+pgterms:marc906: '1880'
+pgterms:marc907: GB
+production_note: MFR, David King, and the Online Distributed Proofreading Team at
+  http://www.pgdp.net. (This file was produced from images generously made available
+  by The Internet Archive.)
+publication_note: United Kingdom :London Society's House,1880.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Judaism -- Works to 1900'
+- GITenberg
+title: "The old paths, or the Talmud tested by Scripture\r\nBeing a comparison of\
+  \ the principles and doctrines of modern Judaism with the religion of Moses and\
+  \ the prophets"
+url: http://www.gutenberg.org/ebooks/68214
