@@ -1,5 +1,8 @@
 _repo: The-old-paths-or-the-Talmud-tested-by-Scripture-Being-a-comparison-of-the-principles-and-doct__68214
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68214-h/images/cover.jpg
 creator:
   author:
     agent_name: McCaul, Alexander
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54656
     wikipedia: https://en.wikipedia.org/wiki/Alexander_McCaul
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68214#The-old-paths-or-the-Talmud-tested-by-Scripture-Being-a-comparison-of-the-principles-and-doct_
 gutenberg_issued: '2022-05-31'
 identifiers:
   gutenberg: '68214'
